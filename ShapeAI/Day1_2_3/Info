@@ -1,0 +1,12 @@
+Arrays are Cache friendly
+Arrays are of 2 types : Fixed arrays and Dynamic arrays
+Fixed Arrays are stored in stack 
+Dyanmic arrays in Cpp are caalled vectors
+Array declarations:
+--int arr[n];
+--string arr[n];
+Vector declarations:
+--#include<vectors>
+--vector<int> arr;
+--vector<string> arr(n); //may or may not mention size
+all data in vector are initialized as zero by default
